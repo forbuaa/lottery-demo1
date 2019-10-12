@@ -20,7 +20,6 @@ Vue.use(Dialog)
 Vue.prototype.$message = Message
 Vue.prototype.$ELEMENT = { size: 'small', zIndex: 3000 }
 
-
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
