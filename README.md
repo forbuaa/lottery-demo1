@@ -1,1 +1,1 @@
-# lottery-demo1
+# lottery
